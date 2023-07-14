@@ -58,6 +58,7 @@ function App() {
 
   return (
     <div className="container mt-5">
+      <a href="https://www.modo.com.ar/pago-ecommerce-modo?qr=undefined&callback=undefined&callbackSuccess=undefined"><button className="btn btn-dark btn-block">Testing MODO</button></a>
       <h1 className="text-center">CRUD Simple</h1><hr />
       <div className="row">
         <div className="col-8">
